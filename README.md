@@ -31,8 +31,7 @@ z<!--suppress HtmlDeprecatedAttribute -->
 ---
 
 ## 🚀 Quick Start
-a
-1. Add to your `build.gradle`:
+Add to your `build.gradle`:
 
 ```groovy
 modImplementation include('tech.klux:(jar name)')
