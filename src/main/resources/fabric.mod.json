@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "astera-core",
+  "version": "${version}",
+  "name": "astera-core",
+  "description": "Fastest event system for Minecraft",
+  "authors": ["Tinkoprof"],
+  "contact": {},
+  "license": "MPL-2.0",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "tech.klux.kluxcore.KluxCore"
+    ],
+    "main": [
+      "tech.klux.kluxcore.KluxCore"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
