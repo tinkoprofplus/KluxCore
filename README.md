@@ -1,4 +1,4 @@
-<!--suppress HtmlDeprecatedAttribute -->
+z<!--suppress HtmlDeprecatedAttribute -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Klux%20Event%20System&fontSize=60&fontAlignY=35&animation=fadeIn"/>
 </p>
@@ -11,7 +11,7 @@
 <p align="center">
   <a href="#features">Features</a> •
   <a href="#quick-start">Quick Start</a> •
-  <a href="discord.gg/klux">Discord</a> •
+  <a href="https://discord.gg/klux">Discord</a> •
   <a href="#license">License</a>
 </p>
 
