@@ -11,7 +11,7 @@
 <p align="center">
   <a href="#features">Features</a> •
   <a href="#quick-start">Quick Start</a> •
-  <a href="#examples">Examples</a> •
+  <a href="discord.gg/klux">Discord</a> •
   <a href="#license">License</a>
 </p>
 
@@ -31,7 +31,7 @@
 ---
 
 ## 🚀 Quick Start
-
+a
 1. Add to your `build.gradle`:
 
 ```groovy
